@@ -9,7 +9,7 @@ For code execution or reproduction issues, contact [yongtao@unc.edu](mailto:yong
 ## Setup
 
 ```bash
-cd /path/to/TGE-Project
+cd /path/to/TGE
 export PYTHONPATH=$PWD:$PYTHONPATH   # required (uses this repo's diffuser/)
 pip install -r requirements.txt
 ```
