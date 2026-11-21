@@ -1,0 +1,15 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+.venv/
+venv/
+labeled_dataset/
+logs/
+wandb/
+slurm_logs/
+*.bak
+*.sh
+gym.monitor.csv
