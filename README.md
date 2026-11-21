@@ -26,7 +26,6 @@ pip install -r requirements.txt
 | Mismatch | `halfcheetah` | Short expert | 200 |
 | Mismatch | `ant` | Disabled expert | 200 |
 
-Mismatch keeps the locomotion `random`+N offline buffer; only the TGE expert reference is Short / Disabled.
 
 ## Run one setting
 
